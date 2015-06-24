@@ -1,4 +1,4 @@
-# labirynt
+# labirynt - intrukcja
 Program wyszukuje sciezke przejscia przez labirynt.
 
 Labirynt sklada sie z 0 i 1 odpowiednio rozmieszczonych w macierzy dwuwymiarowej.
