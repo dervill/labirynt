@@ -7,6 +7,7 @@ Labirynt sklada sie z 0 i 1 odpowiednio rozmieszczonych w macierzy dwuwymiarowej
 0 - sciezka
 
 11111
+
 10000
 10101
 10111
